@@ -1,6 +1,12 @@
 # City-Buddy-HCI-Project
 Born from the frustration towards current navigation apps. CityBuddy is our new New York City MTA navigation application
 
+## Design File
+https://www.figma.com/file/QBGjiBXjPGJ5CvKL01kEL5/City-Buddy?node-id=336%3A2014
+
+## Working Prototype
+https://bit.ly/3sZisN2
+
 <img src="/images/CityBuddy Presentation1024_1.jpg" />
 <img src="/images/CityBuddy Presentation1024_2.jpg" />
 <img src="/images/CityBuddy Presentation1024_3.jpg" />
