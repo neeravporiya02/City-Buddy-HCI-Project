@@ -18,5 +18,5 @@ Born from the frustration towards current navigation apps. CityBuddy is our new 
 <img src="/images/CityBuddy Presentation1024_15.jpg" />
 <img src="/images/CityBuddy Presentation1024_16.jpg" />
 <img src="/images/CityBuddy Presentation1024_17.jpg" />
-<img src="/images/CityBuddy Presentation1024_18.jpg" />
+
 
