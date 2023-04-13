@@ -5,11 +5,11 @@ Born from the frustration towards current navigation apps. CityBuddy is our new 
 City Buddy is an MTA-based navigation app that prioritizes accessibility and language support. It is designed to meet the different needs of both New New Yorkers and Native New Yorkers. The app features community-enhanced data, personalized alerts, and hard-coded maps for underground travel.
 
 ## Key Features
-* <b>Accessibility:</b> The app prioritizes accessibility and offers support for different languages to ensure that all users can use it comfortably.
-* User Needs: The app is designed to cater to the different needs of both New New Yorkers and Native New Yorkers. Community-Enhanced Data: The app features community-enhanced data to ensure that users have access to the most accurate and up-to-date information.
-* Personalized Alerts: Users can receive personalized alerts for things such as train delays or station closures.
-* Hard-Coded Maps: For underground travel, the app offers hard-coded maps to ensure that users always have access to accurate information.
-* Skill-Dependent Directions: The app offers skill-dependent directions to help users navigate the city more effectively.
+* **Accessibility:** The app prioritizes accessibility and offers support for different languages to ensure that all users can use it comfortably.
+* **User Needs:** The app is designed to cater to the different needs of both New New Yorkers and Native New Yorkers. Community-Enhanced Data: The app features community-enhanced data to ensure that users have access to the most accurate and up-to-date information.
+* **Personalized Alerts:** Users can receive personalized alerts for things such as train delays or station closures.
+* **Hard-Coded Maps:** For underground travel, the app offers hard-coded maps to ensure that users always have access to accurate information.
+* **Skill-Dependent Directions:** The app offers skill-dependent directions to help users navigate the city more effectively.
 
 ## PDPE1 - Personas + Jobs to be done
 PDPE1 contains the personas and jobs to be done that were created during the initial stages of the project. Personas are fictional representations of different user types, and jobs to be done are the specific tasks that users are trying to accomplish. These personas and jobs to be done helped to guide the design and development of the application.
