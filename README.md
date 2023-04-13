@@ -5,7 +5,7 @@ Born from the frustration towards current navigation apps. CityBuddy is our new 
 City Buddy is an MTA-based navigation app that prioritizes accessibility and language support. It is designed to meet the different needs of both New New Yorkers and Native New Yorkers. The app features community-enhanced data, personalized alerts, and hard-coded maps for underground travel.
 
 ## Key Features
-* Accessibility: The app prioritizes accessibility and offers support for different languages to ensure that all users can use it comfortably.
+* <b>Accessibility:</b> The app prioritizes accessibility and offers support for different languages to ensure that all users can use it comfortably.
 * User Needs: The app is designed to cater to the different needs of both New New Yorkers and Native New Yorkers. Community-Enhanced Data: The app features community-enhanced data to ensure that users have access to the most accurate and up-to-date information.
 * Personalized Alerts: Users can receive personalized alerts for things such as train delays or station closures.
 * Hard-Coded Maps: For underground travel, the app offers hard-coded maps to ensure that users always have access to accurate information.
