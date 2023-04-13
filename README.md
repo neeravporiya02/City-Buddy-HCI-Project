@@ -10,11 +10,12 @@ User Needs: The app is designed to cater to the different needs of both New New 
 Personalized Alerts: Users can receive personalized alerts for things such as train delays or station closures.
 Hard-Coded Maps: For underground travel, the app offers hard-coded maps to ensure that users always have access to accurate information.
 Skill-Dependent Directions: The app offers skill-dependent directions to help users navigate the city more effectively.
-Folder Structure
+
+## Folder Structure
 PDPE1 - Personas + Jobs to be done
 This folder contains the personas and jobs to be done that were created during the initial stages of the project. Personas are fictional representations of different user types, and jobs to be done are the specific tasks that users are trying to accomplish. These personas and jobs to be done helped to guide the design and development of the application.
 
-## PDPE2 - Paper Prototype
+### PDPE2 - Paper Prototype
 This folder contains the paper prototype that was created during the early stages of the project. The paper prototype is a low-fidelity version of the application that is used to test different design concepts and user flows. The feedback received from testing the paper prototype is used to iterate on the design of the application.
 
 ## PDPE3 - Research Proposal
